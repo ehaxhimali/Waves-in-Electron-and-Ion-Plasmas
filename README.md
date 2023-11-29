@@ -1,4 +1,4 @@
-# Study and Comparing Oscillations and Waves in Electron and Ion Plasmas
+# Studying and Comparing Oscillations and Waves in Electron and Ion Plasmas
 The goal of this work is to provide an interactive way for the user to study the formation of waves and oscillations in plasma once a perturbation, that results in the displacement of charged particle in the plasma, is applied. Specifically, we look at electron and ion plasmas that are not in a magnetic field.
 
 **Steps to Run this file**: 
